@@ -19,3 +19,7 @@ public class ThisMethodExample {
 	}
 
 }
+/* Output:
+I am reading a book...
+I am writing an essay...
+*/
