@@ -22,3 +22,6 @@ public class ThisAsArgument {
 		}
 
 }
+/* Output:
+Constructor as argument data: 15
+*/
